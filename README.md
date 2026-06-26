@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Joni! 👋
 
-<!--
-**Vasiljon-Koleka/Vasiljon-Koleka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Engineering student passionate about software development, problem solving and building efficient, structured systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** C, C++, Python
+
+---
+
+### 📂 Highlighted Projects
+* **University Course & Waitlist Manager:** A terminal-based system built in C++ utilizing object-oriented programming, custom generic templates, and multiple inheritance to manage academic registration.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Vasiljon Koleka](www.linkedin.com/in/vasiljon-koleka)
+* **Email:** koleka.vasiljon@gmail.com
